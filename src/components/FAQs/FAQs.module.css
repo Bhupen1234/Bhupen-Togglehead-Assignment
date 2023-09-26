@@ -1,0 +1,10 @@
+.wrapper{
+    margin-bottom: 22px;
+    padding: 33px;
+}
+
+
+.title{
+    text-align: center;
+    color: var(--color-primary);
+}
